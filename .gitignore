@@ -1,0 +1,13 @@
+# Ignore API keys
+.env
+config/
+secrets.txt
+
+# Ignore Java build files
+target/
+*.class
+
+# Ignore IDE files
+*.iml
+.idea/
+.vscode/
