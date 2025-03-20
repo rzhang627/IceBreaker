@@ -17,7 +17,7 @@ Before running this project, ensure you have:
 ## Installation & Setup
 ### 1. Clone the Repository
 ```sh
-git clone --recusrive <https://github.com/rzhang627/IceBreaker.git>
+git clone --recusrive https://github.com/rzhang627/IceBreaker.git
 cd IceBreaker
 ```
 
